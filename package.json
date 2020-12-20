@@ -1,0 +1,11 @@
+{
+  "name": "convert-page-in-epub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alan Tavares <alan1tavares@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "epub-gen": "^0.1.0"
+  }
+}
